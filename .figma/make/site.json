@@ -1,0 +1,10 @@
+{
+  "description": "Track and manage your subscriptions effortlessly with a sleek, glassmorphism interface, designed for users seeking clarity and control over their expenses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
